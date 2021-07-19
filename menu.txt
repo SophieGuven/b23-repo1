@@ -2,4 +2,6 @@ Coffee 2.99 150cal
 Donots 4.99 1500cal
 
 Mocha	 3.15 200cal
-Expresso 3.25 250cak
+Expresso 3.25 250cal
+
+Ice Coffee 2.88 300cal
